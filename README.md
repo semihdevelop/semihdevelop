@@ -6,61 +6,69 @@ Frontend Developer | UI/UX Enthusiast | Türkiye 🇹🇷
 
 ---
 
+<!-- Typing animation -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1200&color=0D6EFD&center=true&vCenter=true&width=600&lines=Frontend+Development;Clean+UI+%26+Modern+Design;Continuous+Learning;Building+Scalable+Web+Apps" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1200&color=0D6EFD&center=true&vCenter=true&width=600&lines=Frontend+Developer;Clean+UI+%26+Modern+Design;Always+Improving;Building+Scalable+Web+Apps" />
 </p>
 
 ---
 
-## Profile Overview
-
-- Focused on building **modern and scalable web applications**
-- Interested in **UI/UX design and frontend architecture**
-- Continuously improving through real-world projects
-- Strong focus on clean, maintainable code
-
----
-
-## Tech Stack
+## 📌 Status
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,cs,dotnet,git,github,vscode" />
+  <img src="https://img.shields.io/badge/Status-Active%20Developer-00C853?style=for-the-badge&logo=vercel&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Focus-Frontend%20%26%20UI%2FUX-0D6EFD?style=for-the-badge"/>
+</p>
+
+<p align="center">
+  Currently working on: <b>Modern Web Applications & UI Systems</b>
 </p>
 
 ---
 
-## GitHub Activity
+## 👨‍💻 About Me
+
+- Focused on **clean architecture & scalable frontend systems**
+- Interested in **UI/UX engineering and design systems**
+- Building real-world projects for experience
+- Always learning and improving development workflow
+
+---
+
+## 🛠 Tech Stack (Hover Supported)
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=semih-74&show_icons=true&theme=github_dark&hide_border=true" />
-</p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=semih-74&layout=compact&theme=github_dark&hide_border=true" />
+<img src="https://skillicons.dev/icons?i=html" title="HTML5" />
+<img src="https://skillicons.dev/icons?i=css" title="CSS3" />
+<img src="https://skillicons.dev/icons?i=js" title="JavaScript" />
+<img src="https://skillicons.dev/icons?i=react" title="React" />
+<img src="https://skillicons.dev/icons?i=cs" title="C#" />
+<img src="https://skillicons.dev/icons?i=dotnet" title=".NET" />
+<img src="https://skillicons.dev/icons?i=git" title="Git" />
+<img src="https://skillicons.dev/icons?i=github" title="GitHub" />
+<img src="https://skillicons.dev/icons?i=vscode" title="VS Code" />
+
 </p>
 
 ---
 
-## Contribution Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=semih-74&theme=github-compact&hide_border=true" />
-</p>
-
----
-
-## LinkedIn
+## 📡 Online Presence
 
 <p align="center">
   <a href="https://www.linkedin.com/in/semih-arslan-a527b5403">
-    <img src="https://img.shields.io/badge/LinkedIn-Professional_Profile-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Availability-Open%20to%20Opportunities-00C853?style=for-the-badge"/>
 </p>
 
 ---
 
-## Code Philosophy
+## ⚡ Code Philosophy
 
 <p align="center">
-  <i>"Simplicity is the ultimate sophistication."</i>
+  <i>"Clean code is not written for machines, it's written for humans."</i>
 </p>
