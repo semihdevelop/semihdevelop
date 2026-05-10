@@ -1,27 +1,53 @@
-<h1 align="center">Semih Arslan</h1>
+<h1 align="center">Hi 👋, I'm Semih</h1>
 
-<h3 align="center">Frontend Developer | UI/UX Enthusiast | Türkiye 🇹🇷</h3>
+<h3 align="center">
+🚀 Frontend Developer | 🎨 UI Designer | 🇹🇷 Türkiye
+</h3>
 
 ---
 
-
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Building+Modern+Web+Apps;Frontend+Developer;UI%2FUX+Focused;Clean+Code+%26+Smooth+Design" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=500&lines=Frontend+Developer;UI%2FUX+Enthusiast;Clean+Code+Lover;Always+Learning+New+Things" />
 </p>
 
 ---
 
+## 💻 About Me
+
+- 🔭 Web projeleri geliştiriyorum  
+- 🌱 React & .NET öğreniyorum  
+- 🎯 Modern UI/UX tasarımlarına odaklıyım  
+- ⚡ Fikirleri gerçeğe dönüştürmeyi seviyorum  
+
+---
+
+## 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/216656977-6b7d7c1b-4e5c-4b3f-8f7a-2b8c0d3a0c6d.gif" width="100%" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,cs,git,github,vscode" />
+</p>
+
+
+## 🔥 Contribution Snake Animation
+
+<p align="center">
+  <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" />
 </p>
 
 ---
 
-## ⚡ About Me
+## 🌐 LinkedIn
 
-```txt
-💻 Frontend Developer
-🎨 UI/UX focused creator
-🚀 Always building modern interfaces
-📚 Constant learner
+<p align="center">
+  <a href="https://www.linkedin.com/in/semih-arslan-a527b5403">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</p>
+
+---
+
+## ⚡ Quote
+
+<p align="center">
+<b>"Code is not just code, it's creativity."</b>
+</p>
