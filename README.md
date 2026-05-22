@@ -51,3 +51,8 @@
 <p align="center">
 <b>"Code is not just code, it's creativity."</b>
 </p>
+### 🚀 Thanks for visiting my profile!
+
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500"/>
+
+</div>
